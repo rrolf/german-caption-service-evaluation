@@ -13,20 +13,20 @@ Dies ist eine Sitzung der Veranstaltung "Informatik A: Algorithmen und Datenstru
 
 * ID: algorithmen
 * URL: https://video4.virtuos.uos.de/static/mh_default_org/engage-player/6b332d3b-17ef-4131-8921-63345400d8de/6e8b7095-b5df-4119-89ea-0174497955d1/algo_4k_20161101.mp4
-* Bereitgestellt von: Rüdiger Rolf
 * Vortragender: Prof. Dr. Oliver Vornberger
 * Mikrofon: Sennheiser Funkmikron, an Halsband mit aufgestecker Mikrofonkapsel
 * Anmerkungen: Tafelvorlesung 
+* Bereitgestellt von: Rüdiger Rolf (rrolf@uni-osnabrueck.de)
 
 ### Pädagogik
 Dies ist eine Sitzung der Veranstaltung "Grundfragen der Didaktik" der Universität Osnabrück.
 
 * ID: paedagogik
 * URL: https://video4.virtuos.uos.de/static/mh_default_org/engage-player/9a2c17cc-79b4-41ba-9976-1bbc9b0d39e8/d718b0f8-cf3e-4d4a-adf2-23e1a76f3008/presenter_0f8d28cc_118f_47a1_b341_ff1baffeea30.mp4
-* Bereitgestellt von: Rüdiger Rolf
 * Vortragende: Prof. Dr. Ingrid Kunze
 * Mikrofon: Sennheiser Funkmikrofon, an Halsband mit aufgestecker Mikrofonkapsel
 * Anmerkungen: Powerpoint-Vortrag
+* Bereitgestellt von: Rüdiger Rolf (rrolf@uni-osnabrueck.de)
 
 
 
