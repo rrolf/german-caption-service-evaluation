@@ -1,2 +1,3 @@
-# german-caption-service-evaluation
-Within this repository data should be gathered from several speech to text services for german to compare the results
+# Evaluation deutschsprachiger Spracherkennungsdienste 
+
+In diesem Repository sollen anhand von Referenz-Videos Daten gesammelt werden, die es erlauben die Qualität verschiedener Text-to-Speech Dienste für die deutsche Sprache zu vergleichen und so Nutzern die Möglichkeit zu geben sich für einen möglichst geeigneten Dienst zu entscheiden.
